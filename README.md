@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Check Online 
 
-[Angular 8 website demo](https://mayankagrawal94.github.io/test01/)
+[Angular 8 website demo](https://mayankagrawal94.github.io/angular8_website_demo/)
 
 ## Development server
 
