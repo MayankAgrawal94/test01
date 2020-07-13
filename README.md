@@ -1,10 +1,10 @@
-# Demo2
+# Angular AuthGaurd, Routing, Mat-Table, Mat-Dialog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Check Online 
 
-[Angular 8 website demo](https://mayankagrawal94.github.io/angular8_website_demo/)
+[Click here](https://mayankagrawal94.github.io/angular8_website_demo/)
 
 ## Development server
 
