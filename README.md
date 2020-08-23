@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Check Online 
 
-[Click here](https://MayankAgrawal94.github.io/angular8_authgaurd_routing_mat-table_mat-dialog/)
+[Link 1](https://MayankAgrawal94.github.io/angular8_authgaurd_routing_mat-table_mat-dialog/), [Link 2](http://mayank.frikis.xyz/git_publish/angular8_authgaurd_routing_mat-table_mat-dialog/)
 
 ## Development server
 
