@@ -1,10 +1,10 @@
-# Angular AuthGaurd, Routing, Mat-Table, Mat-Dialog, Reactive forms
+# Angular 8, AuthGaurd, Routing, Mat-Table, Mat-Dialog, Reactive forms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Check Online 
 
-[Click here](https://mayankagrawal94.github.io/angular8__authgaurd__routing__mat_table__mat_dialog/)
+[Click here](https://MayankAgrawal94.github.io/angular8_authgaurd_routing_mat-table_mat-dialog/)
 
 ## Development server
 
